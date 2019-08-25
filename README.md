@@ -18,7 +18,11 @@ All the outputs are generated under "output" folder.
 ## Result
 Since wavelet is lossless compression, the output results are all the same as below. 
 ![](./screenshots/result.png)
-![](./screenshots/results2.png)
+![](./screenshots/hwavelet_haar9.png)
+![](./screenshots/hwavelet_haar7.png)
+![](./screenshots/hwavelet_haar5.png)
+![](./screenshots/hwavelet_haar3.png)
+![](./screenshots/hwavelet_haar1.png)
 
 
 ### Non-Integer Binary Haar Wavelet 
