@@ -17,7 +17,7 @@ All the outputs are generated under "output" folder.
 
 ## Result
 Since wavelet is lossless compression, the output results are all the same as below. 
-![](./screenshots/results1.png)
+![](./screenshots/result.png)
 ![](./screenshots/results2.png)
 
 
