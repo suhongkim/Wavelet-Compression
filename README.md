@@ -1,5 +1,5 @@
 # Wavelet-Compression
-MATLAB Implementation of Integer Binary Haar Wavelet and Integer Ternary Haar Wavelet
+MATLAB Implementation of Integer Binary Haar Wavelet and Integer Ternary Haar Wavelet.\
 All codes are written by myself. 
 
 ### Setup
